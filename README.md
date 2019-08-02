@@ -7,7 +7,7 @@ The system included a microcontroller, CAN Transceiver, gyroscope sensor, therma
 ## Schematic Sheet
 Application notes from data sheets and schematic references from development boards were used to assist in designing the schematics of the system. Some circuits like the op-amp buffers were suggested by Formula SAE to comply with the safety guidelines for automobile electrical engineering practices. 
 
-![Schematic Sheet](schematic.png?raw=true "System")
+![Schematic Sheet](Schematic.png?raw=true "System")
 
 ## Stackup
 Layer stack with 2 signal layers and a FR-4 dielectric prepreg as the core as shown in Figure 5. After the layer stack has been defined, a polygon pour was placed on the top and bottom layers corresponding to the GND and 5V respectively.  
